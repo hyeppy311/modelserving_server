@@ -16,8 +16,9 @@ v2/
 v2/models/{model_name}/   
 v2/models/{model_name}/versions/{model_version}/infer   
 ```   
-model_name : gpt2 
+model_name : gpt2
 
+----------
 ## 개발도구    
 * FastAPI    
 * Docker    
